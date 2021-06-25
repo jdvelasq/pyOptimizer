@@ -1,2 +1,2 @@
 # pyOptimizer
-Python Optimizer for Prescriptive Analytics
+Optimizer for Prescriptive Analytics
